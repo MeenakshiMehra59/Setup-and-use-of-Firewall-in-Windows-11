@@ -1,5 +1,3 @@
-# Setup-and-use-of-Firewall-in-Windows-11
-Basic use of the firewall in window 11(Blocking & Allowing)
 # 🔐 Task 4: Setup and Use a Firewall on Windows 11
 
 ## 📁 Internship Task – Cybersecurity Basics
